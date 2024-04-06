@@ -1,5 +1,6 @@
-**This GitHub repo (<https://github.com/Genymobile/scrcpy>) is the only official
-source for the project. Do not download releases from random websites, even if
+**This GitHub repo(<https://github.com/neuvecom/scrcpy/>) is not official
+sourc.  That GitHub repo  (<https://github.com/Genymobile/scrcpy>) is the only official
+source for the project. Do not download releases from random websites and this site, even if
 their name contains `scrcpy`.**
 
 # scrcpy (v2.4)
